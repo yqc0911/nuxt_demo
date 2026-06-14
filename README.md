@@ -76,3 +76,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 
 这是个人练手项目文件。仅供个人使用
+
+提交git hub 代码
