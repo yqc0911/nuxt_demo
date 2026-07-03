@@ -3,6 +3,9 @@
         我是商品界面
         woshishangoinjiemian 
         halou shi
+
+        dgauwabsc 
+        dauwabsc
     </div>
 </template>
 
