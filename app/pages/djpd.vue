@@ -4,6 +4,8 @@
         <div>
             <el-button type="primary">添加</el-button>
         </div>
+        elinput
+        <el-input placeholder="请输入内容"></el-input>
     </div>
 </template>
 
