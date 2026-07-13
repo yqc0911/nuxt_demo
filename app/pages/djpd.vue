@@ -6,6 +6,7 @@
         </div>
         elinput
         <el-input placeholder="请输入内容"></el-input>
+        el select
     </div>
 </template>
 
