@@ -4,6 +4,10 @@
         你好，我是首页
 
         wdkafwa
+        wadohsbe
+        vsvesv 
+        adcwabkjbca
+        
     </div>
 </template>
 
