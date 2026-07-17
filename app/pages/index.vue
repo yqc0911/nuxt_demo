@@ -7,7 +7,12 @@
         wadohsbe
         vsvesv 
         adcwabkjbca
-        
+        afguewbc
+        dwaxabw 
+        cawcbaieucbe
+        <el-table>
+            
+        </el-table>
     </div>
 </template>
 
