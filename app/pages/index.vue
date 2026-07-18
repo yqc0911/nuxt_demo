@@ -11,7 +11,11 @@
         dwaxabw 
         cawcbaieucbe
         <el-table>
-            
+            <el-table-column label="ID" width="180">
+                <template #default="scope">
+                    {{ scope.row.id }}
+                </template>
+            </el-table-column>
         </el-table>
     </div>
 </template>
