@@ -20,6 +20,9 @@
         </el-table>
         wnfses
         vsrvrbo
+        dwadawd
+        rbvubv 
+        
     </div>
 </template>
 
