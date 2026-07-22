@@ -18,10 +18,6 @@
                 </template>
             </el-table-column>
         </el-table>
-        wnfses
-        vsrvrbo
-        dwadawd
-        rbvubv 
         
     </div>
 </template>
