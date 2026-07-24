@@ -1,7 +1,7 @@
 <template>
     <div>
         我是首页
-        你好，我是首页
+
 
         wdkafwa
         wadohsbe
@@ -22,7 +22,7 @@
         abdb
         cscscx 
         dsahdwiqfh
-        
+
         
     </div>
 </template>
