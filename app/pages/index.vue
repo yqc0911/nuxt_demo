@@ -3,10 +3,7 @@
         我是首页
 
         denwc 
-        wdkafwa
-    be
-        vsvesv 
-        adcwabkjbca
+    
         afguewbc
         dwaxabw 
         cawcbaieucbe
