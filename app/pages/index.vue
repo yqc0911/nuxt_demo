@@ -29,6 +29,14 @@
                 </template>
             </el-table-column>
         </el-table>
+
+        <el-input>
+            <template #prepend>
+                <el-button>
+                    <i class="el-icon-search"></i>
+                </el-button>
+            </template>
+        </el-input>
         dadawbd 
         abdb
         cscscx 
