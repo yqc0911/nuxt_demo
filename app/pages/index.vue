@@ -1,67 +1,65 @@
 <template>
-    <div>
-        我是首页
 
-        denwc 
+  <div class="common-layout">
+    <el-container >
+      <el-header style="width: 100%;">
         
-        的阿瑟费呢舒服
-        橙色放v付出
-        打我的
-        擦色v 
-        擦出的是v人把姨父下 
-        擦鹅v铁道部
-        ddaciac
-        accb
-        eu
-        afguewbc
-        dwaxabw 
-        cawcbaieucbcacnece
-        <el-table>
-            <el-table-column label="ID" width="180">
-                <template #default="scope">
-                    {{ scope.row.id }}
-                    afebfbse
-                    dwadaw
-                    cdsrbbv
-                    vbsipvrib
-                    cseovoeh
-                    
-                </template>
-            </el-table-column>
-        </el-table>
+        <el-menu
+    :default-active="activeIndex"
+    class="el-menu-demo"
+    mode="horizontal"
+    @select="handleSelect"
+  >
+    <el-menu-item index="1">Processing Center</el-menu-item>
+    <el-sub-menu index="2">
+      <template #title>Workspace</template>
+      <el-menu-item index="2-1">item one</el-menu-item>
+      <el-menu-item index="2-2">item two</el-menu-item>
+      <el-menu-item index="2-3">item three</el-menu-item>
+      <el-sub-menu index="2-4">
+        <template #title>item four</template>
+        <el-menu-item index="2-4-1">item one</el-menu-item>
+        <el-menu-item index="2-4-2">item two</el-menu-item>
+        <el-menu-item index="2-4-3">item three</el-menu-item>
+      </el-sub-menu>
+    </el-sub-menu>
+    <el-menu-item index="3" disabled>Info</el-menu-item>
+    <el-menu-item index="4">Orders</el-menu-item>
+  </el-menu>
+  <div class="h-6" />
+  <el-menu
+    :default-active="activeIndex2"
+    class="el-menu-demo"
+    mode="horizontal"
+    background-color="#545c64"
+    text-color="#fff"
+    active-text-color="#ffd04b"
+    @select="handleSelect"
+  >
+    <el-menu-item index="1">Processing Center</el-menu-item>
+    <el-sub-menu index="2">
+      <template #title>Workspace</template>
+      <el-menu-item index="2-1">item one</el-menu-item>
+      <el-menu-item index="2-2">item two</el-menu-item>
+      <el-menu-item index="2-3">item three</el-menu-item>
+      <el-sub-menu index="2-4">
+        <template #title>item four</template>
+        <el-menu-item index="2-4-1">item one</el-menu-item>
+        <el-menu-item index="2-4-2">item two</el-menu-item>
+        <el-menu-item index="2-4-3">item three</el-menu-item>
+      </el-sub-menu>
+    </el-sub-menu>
+    <el-menu-item index="3" disabled>Info</el-menu-item>
+    <el-menu-item index="4">Orders</el-menu-item>
+  </el-menu>
+      </el-header>
+      <el-container>
+        <el-aside width="200px">Aside</el-aside>
+        <el-main>Main</el-main>
+      </el-container>
+    </el-container>
+  </div>
 
-        <el-input>
-            <template #prepend>
-                <el-button>
-                    <i class="el-icon-search"></i>
-                </el-button>
-            </template>
-        </el-input>
-        dadawbd 
-        abdb
-        awcbac
-        cdsfuitb 
-         d vuuvrbvx
-
-        cscscx 
-        dsahdwiqfhwawaiub
-        cabcieacccc
-
-        此车UI出版
-        caceueicb
-        cacie
-
-        wacawkjcb
-        cac aeic
-        cscus
-        cacba
-        vruihtibth
-        bfebfbs大尾巴哇
-        大尾巴哇
-        awnabe
-        
-        
-    </div>
 </template>
 
 <script setup>
