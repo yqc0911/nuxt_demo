@@ -66,5 +66,8 @@
 
 </script>
 <style scoped lang="scss">
-
+.common-layout{
+  background-color: aqua;
+  border: solid 1px #2f2f2f;
+}
 </style>
